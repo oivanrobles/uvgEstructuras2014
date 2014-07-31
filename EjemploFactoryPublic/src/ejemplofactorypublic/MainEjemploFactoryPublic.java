@@ -20,7 +20,7 @@ public class MainEjemploFactoryPublic {
     public static void main(String[] args) {
         // TODO code application logic here
         
-                Scanner teclado = new Scanner (System.in);
+        Scanner teclado = new Scanner (System.in);
         String cadena;
    
         System.out.print("Ingrese apellido,nombre o nombre apellido ");
